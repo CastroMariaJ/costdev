@@ -1,0 +1,12 @@
+:root {
+    --primary-color: #F59E0B ;  
+     /* Primary color ambar premium sera los botones de la pagina en genral */
+    --secondary-color: #F1F5FF;
+    /* Secondary color niebla digital sera main1 */
+    --background-color: #E2E8F0;
+    /* Background color gris claro sera para el fondo de la pagina o degradado */
+    --text-color: #334155;
+    /* Text color azul oscuro sera para el texto principal y degradado de la primera */
+    --accent-color: #FFFFFF; 
+    /* Accent color blanco sera para elementos destacados como letra del inicio */
+}
