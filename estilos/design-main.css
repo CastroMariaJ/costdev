@@ -1,4 +1,4 @@
-.plataforma {
+.design {
     display: grid;
     grid-template-columns: repeat(3,1fr);
     width: 100%;
@@ -7,7 +7,7 @@
     padding: 6rem;
 }
 
-.cardplata {
+.carddesign {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -15,27 +15,23 @@
 
 }
 
-.cardplata img {
-width: 16rem ;
-}
-
-.cardplata p {
-color: #F59E0B;
+.carddesign img {
+width: 100%;
 }
 
 
-.cardplata {
-    background-color: #333333;
-    border: 1px solid #F59E0B ;
-    padding: 1.5rem;
-    border-radius: 12px;
+.carddesign {
+    background-color: #F1F5FF;
+    border: 1px solid #F59E0B;
+    
+    border-radius: 30px;
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.7);
-    width: 100%;
+    width: 85%;
     transition: all 0.3s ease;
     color: var(--text-main);
 }
 
-.cardplata:hover {
+.carddesign:hover {
     transform: translateY(-4px);
     box-shadow: 0 10px 15px -3px rgba(240, 153, 13, 0.912);
     border-color: var(--accent-red);

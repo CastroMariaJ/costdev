@@ -1,0 +1,29 @@
+<svg width="400" height="500" viewBox="0 0 400 500" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Plan Básico - Ámbar Premium</title>
+  <rect width="400" height="500" rx="24" fill="#333333"/>
+  <rect width="400" height="500" rx="24" fill="none" stroke="#F59E0B" stroke-width="1.5" opacity="0.4"/>
+  <text x="200" y="64" font-family="system-ui,sans-serif" font-size="13" font-weight="500" fill="#F59E0B" text-anchor="middle" letter-spacing="0.14em" opacity="0.6">PLAN</text>
+  <text x="200" y="96" font-family="system-ui,sans-serif" font-size="34" font-weight="700" fill="#F59E0B" text-anchor="middle">Básico</text>
+  <g transform="translate(200, 200)">
+    <rect x="-60" y="-50" width="120" height="78" rx="8" fill="none" stroke="#F59E0B" stroke-width="3"/>
+    <rect x="-44" y="-38" width="88" height="11" rx="3" fill="#F59E0B" opacity="0.9"/>
+    <rect x="-44" y="-20" width="60" height="7" rx="3" fill="#F59E0B" opacity="0.5"/>
+    <rect x="-44" y="-8" width="76" height="7" rx="3" fill="#F59E0B" opacity="0.35"/>
+    <path d="-75 30 L-60 30 L60 30 L75 30" stroke="#F59E0B" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <line x1="-75" y1="30" x2="75" y2="30" stroke="#F59E0B" stroke-width="3" stroke-linecap="round"/>
+    <rect x="-26" y="28" width="52" height="8" rx="3" fill="#F59E0B" opacity="0.5"/>
+  </g>
+  <rect x="138" y="252" width="124" height="26" rx="13" fill="#F59E0B" opacity="0.12"/>
+  <text x="200" y="270" font-family="system-ui,sans-serif" font-size="12" font-weight="500" fill="#F59E0B" text-anchor="middle" letter-spacing="0.06em">1 página</text>
+  <line x1="40" y1="300" x2="360" y2="300" stroke="#F59E0B" stroke-width="0.5" opacity="0.25"/>
+  <circle cx="60" cy="328" r="4" fill="#F59E0B" opacity="0.8"/>
+  <text x="76" y="334" font-family="system-ui,sans-serif" font-size="14" fill="#F59E0B" opacity="0.88">Diseño responsive</text>
+  <circle cx="60" cy="360" r="4" fill="#F59E0B" opacity="0.8"/>
+  <text x="76" y="366" font-family="system-ui,sans-serif" font-size="14" fill="#F59E0B" opacity="0.88">Formulario de contacto</text>
+  <circle cx="60" cy="392" r="4" fill="#F59E0B" opacity="0.8"/>
+  <text x="76" y="398" font-family="system-ui,sans-serif" font-size="14" fill="#F59E0B" opacity="0.88">Hosting incluido</text>
+  <circle cx="60" cy="424" r="4" fill="#F59E0B" opacity="0.3"/>
+  <text x="76" y="430" font-family="system-ui,sans-serif" font-size="14" fill="#F59E0B" opacity="0.3">SEO avanzado</text>
+  <circle cx="60" cy="456" r="4" fill="#F59E0B" opacity="0.3"/>
+  <text x="76" y="462" font-family="system-ui,sans-serif" font-size="14" fill="#F59E0B" opacity="0.3">Tienda online</text>
+</svg>
