@@ -20,4 +20,14 @@ body {
 
 
 
+.footer {
+    padding: 2rem;
+    text-align: center;
+    background: var(--text-color);
+    color: white;
+    margin-top: 4rem;
 
+}
+.nav-footer {
+    display: none;
+}
