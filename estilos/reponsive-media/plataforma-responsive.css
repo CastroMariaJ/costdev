@@ -1,0 +1,16 @@
+
+@media (max-width: 724px) {
+.plataforma{
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: 1fr,1fr,1fr;
+    padding: 3rem;
+    height: auto;
+}
+.conteiner-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+}
