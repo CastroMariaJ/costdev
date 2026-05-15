@@ -54,28 +54,43 @@
 
         <center><h1 class="tittle-plataforma">¿Donde vivira tu App?</h1></center>
         <div class="conteiner-flex">
-        <section class="plataforma">
-            <div class="grid-plataforma">
-                <div class="cardplata">
-                    <img src="./img/logo_ios_amber_v2.svg" alt="imagen de ios">
-                    <p>(Iphone,Ipad)</p>
+            <section class="plataforma">
+                <!-- Opción 1: iOS -->
+                <div class="grid-plataforma">
+                    <input type="radio" id="plataforma-ios" name="plataforma_seleccionada" value="ios" class="radio-oculto">
+                    <label for="plataforma-ios" class="cardplata">
+                        <div class="badge-check">
+                            <svg viewBox="0 0 24 24" width="16" height="16"><path fill="none" stroke="currentColor" stroke-width="3" d="M5 13l4 4L19 7"/></svg>
+                        </div>
+                        <img src="./img/logo_ios_amber_v2.svg" alt="imagen de ios">
+                        <p>(Iphone, Ipad)</p>
+                    </label>
                 </div>
-            </div>
-
-            <div class="grid-plataforma">
-                <div class="cardplata">
-                    <img src="./img/logo_android_amber_v2.svg" alt="imagen de android">
-                    <p>(Telefonos,Tablets)</p>
+            
+                <!-- Opción 2: Android -->
+                <div class="grid-plataforma">
+                    <input type="radio" id="plataforma-android" name="plataforma_seleccionada" value="android" class="radio-oculto">
+                    <label for="plataforma-android" class="cardplata">
+                        <div class="badge-check">
+                            <svg viewBox="0 0 24 24" width="16" height="16"><path fill="none" stroke="currentColor" stroke-width="3" d="M5 13l4 4L19 7"/></svg>
+                        </div>
+                        <img src="./img/logo_android_amber_v2.svg" alt="imagen de android">
+                        <p>(Telefonos, Tablets)</p>
+                    </label>
                 </div>
-            </div>
-
-            <div class="grid-plataforma">
-                <div class="cardplata">
-                    <img  src="./img/logo_web_amber_v2.svg" alt="imagen de web">
-                    <p>(Navegador)</p>
+            
+                <!-- Opción 3: Web -->
+                <div class="grid-plataforma">
+                    <input type="radio" id="plataforma-web" name="plataforma_seleccionada" value="web" class="radio-oculto">
+                    <label for="plataforma-web" class="cardplata">
+                        <div class="badge-check">
+                            <svg viewBox="0 0 24 24" width="16" height="16"><path fill="none" stroke="currentColor" stroke-width="3" d="M5 13l4 4L19 7"/></svg>
+                        </div>
+                        <img src="./img/logo_web_amber_v2.svg" alt="imagen de web">
+                        <p>(Navegador)</p>
+                    </label>
                 </div>
-            </div>
-        </section>
+            </section>
         </div>
 
         <div class="navigation-buttons">
