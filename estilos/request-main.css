@@ -21,7 +21,7 @@
             color: #1a202c;
         }
 
-        /* Grupos de entrada */
+       
         .form-group {
             margin-bottom: 16px;
         }
@@ -39,7 +39,7 @@
             margin-left: 2px;
         }
 
-        /* Estilos de los inputs y textarea */
+        
         input[type="text"],
         input[type="email"],
         textarea {
@@ -49,7 +49,7 @@
             border-radius: 8px;
             font-size: 0.95rem;
             color: #4a5568;
-            box-sizing: border-box; /* Asegura que el padding no afecte el ancho */
+            box-sizing: border-box;
             transition: border-color 0.2s, box-shadow 0.2s;
         }
 
@@ -68,7 +68,7 @@
             min-height: 100px;
         }
 
-        /* Contenedor del botón para alinearlo a la derecha */
+      
         .form-footer {
             display: flex;
             justify-content: flex-end;
