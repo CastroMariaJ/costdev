@@ -47,11 +47,16 @@
         font-size: 1.2rem;
     }
 
-    /* GRID DE 3 COLUMNAS */
     .cards-container {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         gap: 2rem;
         width: 100%;
     }
+
+    .imagen {
+        display: block;
+    }
+
+
 }

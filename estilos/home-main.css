@@ -104,3 +104,14 @@
     font-size: 1rem;
     line-height: 1.2;
 }
+
+.imagen {
+    display: none;
+}
+
+.container-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
