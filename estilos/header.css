@@ -1,6 +1,6 @@
 .header {
     display: grid;
-    grid-template-columns: auto 1fr; /* Logo a la izquierda, icono al final */
+    grid-template-columns: auto 1fr;
     align-items: center;
     padding: 0 5%;
     height: 10vh;
@@ -40,7 +40,7 @@
 
 .menu-content {
     position: fixed;
-    left: -250px; /* Escondido a la izquierda */
+    left: -250px; 
     top: 0;
     width: 250px;
     height: 100vh;
@@ -51,7 +51,7 @@
     padding-top: 12vh;
 }
 
-/* Mostrar menú cuando el checkbox esté activo */
+
 #menu-toggle:checked ~ .menu-content {
     left: 0;
 }

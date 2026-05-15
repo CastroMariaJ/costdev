@@ -50,7 +50,7 @@
     align-items: center;
     gap: 2rem;
     padding: 2rem;
-    background: transparent; /* Quitamos el fondo sólido para que luzcan las cards */
+    background: transparent; 
 }
 
 .benefits-title {
@@ -62,7 +62,7 @@
     margin-top: 2rem;
 }
 
-/* Contenedor de la cuadrícula de cards */
+
 .cards-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
@@ -70,7 +70,7 @@
     width: 100%;
 }
 
-/* Estilo individual de la Card */
+
 .card {
     background-color: var(--accent-color);
     padding: 2rem 1.5rem;
@@ -93,7 +93,7 @@
 
 .card-icon {
     font-size: 2.5rem;
-    color: var(--primary-color); /* Tu color Ámbar */
+    color: var(--primary-color);
     margin-bottom: 1rem;
 }
 
