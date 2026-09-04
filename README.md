@@ -15,7 +15,7 @@
 - [🛠️ Tecnologías Utilizadas](#️-tecnologías-utilizadas)
 - [📂 Estructura del Proyecto](#-estructura-del-proyecto)
 - [🚀 Instalación y Uso](#-instalación-y-uso)
-- [👤 Autoría](#-autoría)
+
 
 ---
 
@@ -87,8 +87,4 @@ ProyectoCSS/
    - Navega a la carpeta del proyecto.
    - Abre el archivo `index.html` en tu navegador web preferido (Google Chrome, Firefox, Edge, etc.) o utiliza la extensión **Live Server** en VS Code.
 
----
 
-## 👤 Autoría
-
-Desarrollado por **María Castro** ([@CastroMariaJ](https://github.com/CastroMariaJ)).
